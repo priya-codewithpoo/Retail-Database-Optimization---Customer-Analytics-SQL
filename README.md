@@ -1,5 +1,11 @@
 # 📊 SQL Business Analysis Project (Pagila Dataset)
 
+## 💡 Project Summary
+
+This project uses PostgreSQL to analyze the Pagila DVD Rental dataset. Advanced SQL queries and business-driven metrics provide actionable insights into customer, store, and category performance.
+
+---
+
 ## 🔍 Project Overview
 
 This project demonstrates **corporate-level SQL analysis** using the **Pagila (DVD Rental) database**. The goal was to simulate **real-world business questions** and solve them using advanced SQL concepts, focusing on *insights* rather than just queries.
@@ -98,7 +104,19 @@ Each file includes:
 * This project focuses on **ad-hoc business analysis**, where direct queries and CTE-style logic are more suitable.
 
 ---
+
+## 🔮 Future Scope
+
+- Incorporate real-time rental data for dynamic dashboards
+  
+- Automate anomaly detection alerts
+  
+- Extend analysis to marketing campaigns and promotions
+
+---
+
 ## 🏁 Conclusion
 
 This project demonstrates how SQL can be used to solve real-world business problems through structured, insight-driven analysis. By answering high-impact questions using advanced SQL techniques, the project reflects practical analytics work commonly performed in corporate environments.
+
 
