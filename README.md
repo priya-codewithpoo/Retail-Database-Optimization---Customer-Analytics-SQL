@@ -1,4 +1,9 @@
-# 📊 SQL Business Analysis Project (Pagila Dataset)
+# 📊 Retail Database Optimization & Customer Analytics
+
+![Customer Segmentation Summary](./image/Customer Segmentation Summary.png)
+**Key Insight: Analyzed $67k+ in total revenue to identify that the 'Silver' customer segment drives 73% of business volume, flagging a critical target for retention marketing.**
+
+---
 
 ## 💡 Project Summary
 
@@ -102,6 +107,7 @@ Each file includes:
 ## 🏁 Conclusion
 
 This project demonstrates how SQL can be used to solve real-world business problems through structured, insight-driven analysis. By answering high-impact questions using advanced SQL techniques, the project demonstrates practical SQL skills for analyzing business problems and generating actionable insights.
+
 
 
 
