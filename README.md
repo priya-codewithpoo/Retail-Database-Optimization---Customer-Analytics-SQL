@@ -15,9 +15,7 @@ This project uses PostgreSQL to analyze the Pagila DVD Rental dataset. Advanced 
 
 ## 🔍 Project Overview
 
-This project demonstrates **hands-on SQL analysis simulating real-world business scenarios** using the **Pagila (DVD Rental) database**. The goal was to simulate **real-world business questions** and solve them using advanced SQL concepts, focusing on *insights* rather than just queries.
-
-The project is structured as **8 independent, high-impact business questions**, each written in a separate SQL file for clarity and professionalism. Some questions are split into multiple files when analysis requires both detail and summary.
+This project focuses on solving realistic retail business challenges using PostgreSQL.I developed an analytical framework to answer 8 high-impact questions regarding revenue growth, customer loyalty, and operational efficiency.
 
 ---
 
@@ -109,6 +107,7 @@ Each file includes:
 ## 🏁 Conclusion
 
 This project demonstrates how SQL can be used to solve real-world business problems through structured, insight-driven analysis. By answering high-impact questions using advanced SQL techniques, the project demonstrates practical SQL skills for analyzing business problems and generating actionable insights.
+
 
 
 
